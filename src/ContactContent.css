@@ -1,0 +1,54 @@
+.contact-page {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    font-family: 'CustomFont', CgPhenixAmerican;
+}
+
+.title {
+    font-size: 60px;
+
+    color: #60B0F4;
+}
+.my-form {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    width: 500px;
+}
+.button {
+    background-color: #60B0F4;
+    font-family: 'CustomFont', CgPhenixAmerican;
+    font-size: 30px;
+
+    width: 150px;
+    color: white;
+    border-radius: 50px;
+}
+
+#inputName {
+    font-family: 'CustomFont', CgPhenixAmerican;
+    font-size: 30px;
+    color: #60B0F4;
+    height: 40px;
+    width: 500px;
+}
+#inputEmail {
+    font-family: 'CustomFont', CgPhenixAmerican;
+    font-size: 30px;
+
+    height: 40px;
+
+    width: 500px;
+}
+#inputMessage {
+    font-family: 'CustomFont', CgPhenixAmerican;
+    font-size: 30px;
+
+    height: 100px;
+
+    width: 500px;
+}

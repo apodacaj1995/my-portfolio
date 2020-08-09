@@ -1,0 +1,17 @@
+.navbar {
+    margin-top: 42px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'CustomFont', CgPhenixAmerican;
+    font-size: calc(15px + 2vmin);
+    padding-bottom: 30px;
+    /* background-color: #FFEEA3; */
+}
+
+.navbar_link {
+    color: #424C55;
+    text-decoration: none;
+    margin: 0 65px
+}

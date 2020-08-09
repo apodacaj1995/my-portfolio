@@ -1,0 +1,32 @@
+
+.column {
+    padding-top: 50px;
+    float:left;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row {
+    display: flex;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+.more {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-family: 'CustomFont', CgPhenixAmerican;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: #60B0F4;
+}

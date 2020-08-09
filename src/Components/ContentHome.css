@@ -1,0 +1,44 @@
+.Computer {
+    background-image: url("./Media/Images/laptop.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    background-size: contain;
+    position: fixed;
+    padding-top: 50px;
+  }
+    /* height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+  } */
+  
+  .slogan {
+    font-family: 'CustomFont', CgPhenixAmerican;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* font-weight: normal;
+    font-style: normal; */
+    color: #BBB9B9;
+    font-size: 70px;
+    padding-top: 50px;
+  }
+  
+  #space {
+    height: 50px;
+    
+  }
+  
+  .click {
+    font-size: 55px;
+  }
+  
+  #spanish {
+    font-size: 40px;
+    color: #60B0F4;
+  }
